@@ -1,4 +1,4 @@
-Spoiler File -- Basic Items (変愚蛮怒 3.0.0Alpha6)
+Spoiler File -- Basic Items (変愚蛮怒 3.0.0Alpha7)
 
 
 Description                            Dam/AC    Wgt  Lev                                   Chance     Cost
