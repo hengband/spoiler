@@ -1,4 +1,4 @@
-Monster Spoilers for 変愚蛮怒 3.0.0Alpha19
+Monster Spoilers for 変愚蛮怒 3.0.0Alpha20
 ------------------------------------------
 
 Name                                          Lev  Rar  Spd      Hp      Ac          Visual Info
@@ -25,4 +25,5 @@ Name                                          Lev  Rar  Spd      Hp      Ac     
 [U] 鳩『ポッポ』                                0    4   +1     400      15           万色の 'B'
     さまようもの                                0   30   +0       1       1             青い 'G'
 [U] 『ボルガ博士』                              0   10   -1      30     150             白い 't'
+[U] 盗賊『鼠小僧』                              8    2  +10     168      30   明るい青灰色の 'p'
 
