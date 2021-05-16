@@ -1,4 +1,4 @@
-Monster Spoilers for 変愚蛮怒 3.0.0Alpha22
+Monster Spoilers for 変愚蛮怒 3.0.0Alpha23
 ------------------------------------------
 
 Name                                          Lev  Rar  Spd      Hp      Ac          Visual Info
@@ -16,6 +16,7 @@ Name                                          Lev  Rar  Spd      Hp      Ac     
     コボルド                                    3    1   +0     5d5      16             緑の 'k'
     銀青ムカデ                                  3    1  +10     4d5       6       明るい青の 'c'
     ピラニア                                    3    1  +10     2d6       8       明るい青の 'l'
+    チンピラウサギ                              3    2   +0     3d6      10             紫の 'r'
     銀赤ムカデ                                  3    1  +10     4d8       9       明るい赤の 'c'
 [U] 『スメアゴル』                              3    2  +20     400      12         琥珀色の 'h'
     大灰色ヘビ                                  4    1  -10     6d8      41         青灰色の 'J'
