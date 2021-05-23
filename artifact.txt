@@ -1,4 +1,4 @@
-Artifact Spoilers for Hengband Version 変愚蛮怒 3.0.0Alpha23
+Artifact Spoilers for Hengband Version 変愚蛮怒 3.0.0Alpha24
 ------------------------------------------------------------
 
 
@@ -601,6 +601,11 @@ Artifact Spoilers for Hengband Version 変愚蛮怒 3.0.0Alpha23
     反射, 可視透明, 祝福, 呪文失敗率減少
     発動: エルベレスの結界 : 75 ターン毎
     レベル 30, 希少度 40, 0.6 kg, ＄50000
+
+★グレート・ソード『ドラゴンころし』 (8d8) (+0,+15) [+10]
+    武器属性: 強撃
+    発動: なし
+    レベル 30, 希少度 100, 25.0 kg, ＄100000
 
 
 
