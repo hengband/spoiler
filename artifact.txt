@@ -1,4 +1,4 @@
-Artifact Spoilers for Hengband Version 変愚蛮怒 3.0.0Alpha32
+Artifact Spoilers for Hengband Version 変愚蛮怒 3.0.0Alpha35
 ------------------------------------------------------------
 
 
@@ -1406,6 +1406,12 @@ Artifact Spoilers for Hengband Version 変愚蛮怒 3.0.0Alpha32
     追加: 耐性
     発動: なし
     レベル 30, 希少度 10, 4.0 kg, ＄100000
+
+★鼠小僧の黒装束 [4,+12]
+    耐性: 暗黒
+    麻痺知らず
+    発動: 財宝感知 : 35 ターン毎
+    レベル 15, 希少度 30, 4.0 kg, ＄12500
 
 ★アダマンタイト製プレート・メイル『魂の守り手』 (-4) [40,+20]
     +2の修正: 耐久力
