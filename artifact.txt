@@ -1,4 +1,4 @@
-Artifact Spoilers for Hengband Version 変愚蛮怒 3.0.0Alpha35
+Artifact Spoilers for Hengband Version 変愚蛮怒 3.0.0Alpha36
 ------------------------------------------------------------
 
 
@@ -1408,6 +1408,7 @@ Artifact Spoilers for Hengband Version 変愚蛮怒 3.0.0Alpha35
     レベル 30, 希少度 10, 4.0 kg, ＄100000
 
 ★鼠小僧の黒装束 [4,+12]
+    +7の修正: 隠密
     耐性: 暗黒
     麻痺知らず
     発動: 財宝感知 : 35 ターン毎
