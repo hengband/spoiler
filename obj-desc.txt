@@ -1,4 +1,4 @@
-Spoiler File -- Basic Items (変愚蛮怒 3.0.0Alpha40)
+Spoiler File -- Basic Items (変愚蛮怒 3.0.0Alpha41)
 
 
 Description                            Dam/AC    Wgt  Lev                                   Chance     Cost
@@ -277,7 +277,7 @@ Description                            Dam/AC    Wgt  Lev                       
   耐地獄の指輪                                   0.2   34  34F: +50                                   14500
   耐毒の指輪                                     0.2   40  30F: +25/ 40F: +25                         16000
   追加射撃の指輪                                 0.2   50  50F: +50                                   20000
-  秩序の指輪                                     0.4   65  65F: +25                                   25000
+  秩序の指輪                                     0.2   65  65F: +25                                   25000
   消費魔力減少の指輪                             0.2   80  65F: +16                                   30000
   スピードの指輪                                 0.2   80  80F:+100                                   50000
   追加攻撃の指輪                                 0.2   50  50F: +50                                  100000
