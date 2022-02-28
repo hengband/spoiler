@@ -1,4 +1,4 @@
-Artifact Spoilers for Hengband Version 変愚蛮怒 3.0.0Alpha53
+Artifact Spoilers for Hengband Version 変愚蛮怒 3.0.0Alpha54
 ------------------------------------------------------------
 
 
@@ -1328,7 +1328,7 @@ Artifact Spoilers for Hengband Version 変愚蛮怒 3.0.0Alpha53
     発動: なし
     レベル 35, 希少度 35, 0.1 kg, ＄5000
 
-★名射手ウィリアム・テルの鋼鉄のクロスボウの矢 (6d5) (+20,+16)
+★名射手ウィリアム・テルのクロスボウの矢 (6d5) (+20,+16)
     対: *人間*
     発動: なし
     レベル 35, 希少度 35, 0.1 kg, ＄5000
