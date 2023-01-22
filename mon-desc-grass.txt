@@ -1,4 +1,4 @@
-Monster Spoilers for 変愚蛮怒 3.0.0Alpha74
+Monster Spoilers for 変愚蛮怒 3.0.0Alpha75
 ------------------------------------------
 
 Name                                          Lev  Rar  Spd      Hp      Ac          Visual Info
@@ -21,7 +21,6 @@ Name                                          Lev  Rar  Spd      Hp      Ac     
     抜け雀                                      3    3   +0     3d6       5   明るい琥珀色の 'B'
     つばめ                                      4    2   +0     3d6      10       明るい青の 'B'
     タカ                                        5    2   +0     4d6      10         琥珀色の 'B'
-[U] 航海士『ナミ』                              8    4  +10     156      30       オレンジの 'p'
 [U] 『手負いの熊』                              9    1   +0     100      35             赤い 'q'
 [U] 狼『血塗られし牙』                          9    1  +10      36      30       明るい赤の 'C'
     黒豹                                       10    2  +10    10d8      30           灰色の 'f'
