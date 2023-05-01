@@ -1,4 +1,4 @@
-Monster Spoilers for 変愚蛮怒 3.0.0Alpha78
+Monster Spoilers for 変愚蛮怒 3.0.0Alpha79
 ------------------------------------------
 
 Name                                          Lev  Rar  Spd      Hp      Ac          Visual Info
