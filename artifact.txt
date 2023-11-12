@@ -1,4 +1,4 @@
-Artifact Spoilers for Hengband Version 変愚蛮怒 3.0.1Beta0
+Artifact Spoilers for Hengband Version 変愚蛮怒 3.0.1Beta1
 ----------------------------------------------------------
 
 
@@ -590,7 +590,7 @@ Artifact Spoilers for Hengband Version 変愚蛮怒 3.0.1Beta0
     +1の修正: 腕力
     武器属性: 溶解
     耐性: 酸
-    投擲, 永久光源(半径 1)
+    投擲
     追加: 耐性
     発動: アシッド・ボール (100) と酸への耐性 : 40+d40 ターン毎
     レベル 4, 希少度 10, 0.6 kg, ＄12000
