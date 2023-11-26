@@ -1,4 +1,4 @@
-Monster Spoilers for 変愚蛮怒 3.0.1Beta1
+Monster Spoilers for 変愚蛮怒 3.0.1Beta2
 ------------------------------------------
 
 [1]: 汚いイタズラ小僧 (レベル0, 't')
