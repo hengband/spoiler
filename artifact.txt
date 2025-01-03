@@ -1,4 +1,4 @@
-Artifact Spoilers for Hengband Version 変愚蛮怒 3.0.1Beta23
+Artifact Spoilers for Hengband Version 変愚蛮怒 3.0.1Beta24
 -----------------------------------------------------------
 
 
@@ -2044,7 +2044,7 @@ Artifact Spoilers for Hengband Version 変愚蛮怒 3.0.1Beta23
 ★宵闇のアミュレット [+5]
     +4の修正: 隠密, 探索
     耐性: 暗黒
-    可視透明, 永久光源(半径-1)。
+    可視透明, 永久光源(半径--1)。
     発動: 暗黒の嵐(250) : 30 ターン毎
     レベル 50, 希少度 150, 0.1 kg, ＄50000
 
