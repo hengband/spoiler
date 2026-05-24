@@ -1,4 +1,4 @@
-Spoiler File -- Basic Items (変愚蛮怒 3.0.2Beta2)
+Spoiler File -- Basic Items (変愚蛮怒 3.0.2Beta3)
 
 
 Description                            Dam/AC    Wgt  Lev                                   Chance     Cost
@@ -216,6 +216,7 @@ Description                            Dam/AC    Wgt  Lev                       
   破壊のアミュレット                             0.3   50  50F:+100                                       0
   装飾のアミュレット                             0.3   15  15F:+100                                      20
   遅消化のアミュレット                           0.3   15  15F:  +0                                     200
+  耐電のアミュレット                             0.2   12  12F:+100                                     300
   耐酸のアミュレット                             0.3   20  20F:+100                                     300
   魅力のアミュレット                             0.3   20  20F:+100                                     500
   知能のアミュレット                             0.3   20  20F:+100                                     500
