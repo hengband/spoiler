@@ -1,5 +1,10 @@
 # スポイラー
 
+## 解説
+
+- [スコアの算出方法](score.html)
+- [悪夢モードの詳細](nightmare.html)
+
 ## Wiki
 
 - [Hengband Spoiler](http://mars.kmc.gr.jp/~dis/heng_wiki/)
