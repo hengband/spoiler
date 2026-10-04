@@ -1,4 +1,4 @@
-Artifact Spoilers for Hengband Version 変愚蛮怒 3.0.2Beta4
+Artifact Spoilers for Hengband Version 変愚蛮怒 3.0.2Beta5
 ----------------------------------------------------------
 
 
@@ -1986,6 +1986,12 @@ Artifact Spoilers for Hengband Version 変愚蛮怒 3.0.2Beta4
     警告, 永久光源(半径 3)
     発動: テレポート・レベル : 100+d200 ターン毎
     レベル 70, 希少度 70, 0.7 kg, ＄45000
+
+★火消しライター
+    +3の修正: 隠密
+    永久光源(半径--1)。
+    発動: 暗黒生成 : 10+d10 ターン毎
+    レベル 30, 希少度 30, 0.5 kg, ＄50000
 
 
 
